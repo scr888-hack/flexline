@@ -1,0 +1,68 @@
+{
+  "type": "bubble",
+  "hero": {
+    "type": "image",
+    "url": "https://sv1.picz.in.th/images/2022/03/18/re8BWI.jpg",
+    "size": "full",
+    "aspectRatio": "3:4",
+    "aspectMode": "cover",
+    "action": {
+      "type": "uri",
+      "uri": "https://d20gjgsn2f0jqy.cloudfront.net/Iamrobot/6228b5b6ced15d64c760c0d5.html"
+    }
+  },
+  "footer": {
+    "type": "box",
+    "layout": "vertical",
+    "spacing": "none",
+    "contents": [
+      {
+        "type": "button",
+        "style": "link",
+        "height": "md",
+        "action": {
+          "type": "uri",
+          "label": "สมัครคลิก",
+          "uri": "https://d20gjgsn2f0jqy.cloudfront.net/Iamrobot/6228b5b6ced15d64c760c0d5.html"
+        },
+        "color": "#FF0044",
+        "margin": "xl",
+        "position": "relative",
+        "adjustMode": "shrink-to-fit"
+      },
+      {
+        "type": "button",
+        "style": "link",
+        "height": "md",
+        "action": {
+          "type": "uri",
+          "label": "แชร์เพจคลิก",
+          "uri": "https://liff.line.me/1656987426-vn2W8Rjz"
+        },
+        "margin": "xl",
+        "position": "relative"
+      },
+      {
+        "type": "box",
+        "layout": "horizontal",
+        "contents": [],
+        "margin": "none"
+      }
+    ],
+    "flex": 0,
+    "backgroundColor": "#000000",
+    "margin": "none",
+    "borderWidth": "light",
+    "cornerRadius": "none"
+  },
+  "styles": {
+    "body": {
+      "separator": true,
+      "backgroundColor": "#FF0044"
+    },
+    "footer": {
+      "backgroundColor": "#000000",
+      "separator": false
+    }
+  }
+}
